@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Practice Notebook",
+    "section": "",
+    "text": "Introduction\nThis notebook is a tutorial on how to set up a quarto page.\nThis is helpful for new researchers.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "index.html#project-collaborators",
+    "href": "index.html#project-collaborators",
+    "title": "Practice Notebook",
+    "section": "Project Collaborators",
+    "text": "Project Collaborators\n\nSara M Schaal\nLilly Parker",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "01-PCAs.html",
+    "href": "01-PCAs.html",
+    "title": "PCAs",
+    "section": "",
+    "text": "Whole Genome PCAs",
+    "crumbs": [
+      "PCAs"
+    ]
+  }
+]
