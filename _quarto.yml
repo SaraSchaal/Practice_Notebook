@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - 01-PCAs.qmd
+    - 02-FSTOutliers.qmd
 
 bibliography: references.bib
 

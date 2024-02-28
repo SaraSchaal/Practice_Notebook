@@ -5,3 +5,6 @@ This is my page for principal component analyses (PCAs).
 ## Whole Genome PCAs
 
 ![](./img/pcod20240104_genomewide_pca_original_pc1v2.jpg){width=450px style="display: block; margin: 0 auto"}
+
+
+Sara these results are great. Can you make a PC1 vs PC3 plot?
