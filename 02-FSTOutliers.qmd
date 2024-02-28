@@ -1,4 +1,3 @@
 # FST Outlier Plots
 
-
-Here is a manhattan plot. 
+Here is a manhattan plot.

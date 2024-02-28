@@ -4,7 +4,7 @@ project:
 book:
   title: "Practice Notebook"
   author: "Sara M Schaal"
-  date: late-modified
+  date: last-modified
   chapters:
     - index.qmd
     - 01-PCAs.qmd
