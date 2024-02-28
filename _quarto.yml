@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Practice Notebook"
+  author: "Sara M Schaal"
+  date: late-modified
+  chapters:
+    - index.qmd
+    - 01-PCAs.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

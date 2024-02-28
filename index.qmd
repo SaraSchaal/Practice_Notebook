@@ -1,0 +1,8 @@
+# Introduction {.unnumbered}
+
+This notebook is a tutorial on how to set up a quarto page.   
+This is helpful for new researchers. 
+
+## Project Collaborators 
+- Sara M Schaal
+- Lilly Parker

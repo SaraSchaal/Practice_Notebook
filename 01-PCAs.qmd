@@ -1,0 +1,7 @@
+# PCAs {.unnumbered}
+
+This is my page for principal component analyses (PCAs).
+
+## Whole Genome PCAs
+
+![](./img/pcod20240104_genomewide_pca_original_pc1v2.jpg){width=450px style="display: block; margin: 0 auto"}
